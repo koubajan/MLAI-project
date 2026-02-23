@@ -1,9 +1,10 @@
 # Ignorovat všechno ve složce
 *
 
-# =============== VÝJIMKY (Fáze 1) ===============
-# Neignorovat samotný gitignore
+# =============== VÝJIMKY (Fáze 1 a Zázemí) ===============
+# Neignorovat samotný gitignore a dokumentaci
 !.gitignore
+!README.md
 
 # Neignorovat složku se sběrem dat a její obsah
 !data_scraping/
