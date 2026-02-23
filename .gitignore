@@ -1,0 +1,17 @@
+# Ignorovat všechno ve složce
+*
+
+# =============== VÝJIMKY (Fáze 1) ===============
+# Neignorovat samotný gitignore
+!.gitignore
+
+# Neignorovat složku se sběrem dat a její obsah
+!data_scraping/
+!data_scraping/**
+
+# Neignorovat data složku s vygenerovaným datasetem
+!data/
+!data/**
+
+# Neignorovat případné requirements.txt pro spuštění scraperu
+!requirements.txt
