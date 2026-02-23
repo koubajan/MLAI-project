@@ -1,4 +1,12 @@
-# Odhad ceny Bitcoinu - Fáze 1 (Sběr dat)
+<div align="center">
+  <h1 align="center">Odhad ceny Bitcoinu - Fáze 1 (Sběr dat)</h1>
+</div>
+
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Data Source](https://img.shields.io/badge/Data_API-Binance_REST-yellow?style=for-the-badge&logo=binance&logoColor=black)
+![Pandas](https://img.shields.io/badge/Data_Processing-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
 
 Tento repozitář představuje první část ročníkového softwarového projektu. Cílem této úvodní fáze je vytvoření vlastního, nezávislého datasetu pro následné trénování modelu strojového učení, a to extrakcí reálných tržních dat.
 
